@@ -35,7 +35,7 @@ Aplicación móvil desarrollada con Flutter que permite consultar, visualizar y 
 
 1. Clona el repositorio:
 
-   git clone [https://github.com/tu_usuario/biblioteca_app.git](https://github.com/Jeremyjimenez10/Prueba-App.git)
+   git clone (https://github.com/Jeremyjimenez10/Prueba-App.git)
    cd biblioteca_app
 
 
